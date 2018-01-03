@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+body
+{
+  background-color:black;
+  color:white;
+  font-family:"Slabo 27px";
+}
+
+h1
+{
+  text-align:center;
+  font-size:50px;
+}
+
+p
+{
+  font-size:25px;
+  font-style:italic;
+}
+
+.btn
+{
+  font-size:25px;
+}
+
+.quotes
+{
+  background-color:black;
+  font-size:22px;
+  opacity:50%;
+  width:35%;
+  margin-left:auto;
+  margin-right:auto;
+  border: 4px solid white;
+  padding:20px;
+  height:auto;
+}
+
+.author
+{
+  font-size:18px;
+  text-align:right;
+  font-style:italic;
+}
